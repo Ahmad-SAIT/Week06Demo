@@ -21,7 +21,7 @@
         </ul>
         <div>
             <!-- add a link to go back to root of application -->
-            <a href=" <c:url value='/' /> " >Home</a>
+            
         </div>
     </body>
 </html>
